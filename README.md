@@ -1,0 +1,1 @@
+This is a repository for my c piscine projects during my time at 42KL
